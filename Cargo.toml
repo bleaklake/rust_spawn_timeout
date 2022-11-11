@@ -1,0 +1,13 @@
+[package]
+authors = ["bleaklake"]
+name = "spawn_timeout"
+description = "Call a subroutine after a constant time interval"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+homepage = "https://github.com/bleaklake/rust_spawn_timeout"
+repository = "https://github.com/bleaklake/rust_spawn_timeout"
+documentation = "https://github.com/bleaklake/rust_spawn_timeout/blob/main/README.md"
+readme = "README.md"
+keywords = ["async", "timers", "time", "timeout", "multithreading"]
+categories = ["accessibility", "asynchronous", "concurrency", "date-and-time"]
